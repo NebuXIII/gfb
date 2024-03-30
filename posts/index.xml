@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Geppert Fernmeldebau</title>
+    <link>https://gfb.johann-brauer.de/posts/</link>
+    <description>Recent content in Posts on Geppert Fernmeldebau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 30 Mar 2024 17:39:17 +0100</lastBuildDate>
+    <atom:link href="https://gfb.johann-brauer.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Profil</title>
+      <link>https://gfb.johann-brauer.de/posts/profil/</link>
+      <pubDate>Sat, 30 Mar 2024 17:39:17 +0100</pubDate>
+      <guid>https://gfb.johann-brauer.de/posts/profil/</guid>
+      <description>Kurzpofil This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
